@@ -1,0 +1,10 @@
+@relation DatasetAccidents
+
+@attribute Wilaya {Alger,Boumerdes}
+@attribute Type_accident numeric
+@attribute 'Age conducteur' numeric
+@attribute meteo {Pluit}
+
+@data
+Alger,1,45,Pluit
+Boumerdes,3,32,Pluit
